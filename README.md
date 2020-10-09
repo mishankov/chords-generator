@@ -11,8 +11,8 @@ Short name | Long name | Type |Description
 -pl | --progression-length | integer | Number of chords in chord progression
 -cd | --chord-duration | int | Chords duration in beats
 -pd | --progression-duration | int | Chord progression duration in beats
--min | --min-chord-duration | int | Minimum chords duration on beats
--max | --max-chord-duration | int | Maximum chords duration on beats
+-min | --min-chord-duration | int | Minimum chords duration in beats
+-max | --max-chord-duration | int | Maximum chords duration in beats
 -i | --auto-inversions | flag | Use inverted chords to make notes  closer to base note of the scale
 
 
